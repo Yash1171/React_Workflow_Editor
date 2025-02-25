@@ -1,4 +1,4 @@
-# React_Workflow_Editor
+# 📌React_Workflow_Editor
 
-📌 A React Workflow Editor is a dynamic and interactive application that allows users to design, visualize, and manage workflows.<br>
+A React Workflow Editor is a dynamic and interactive application that allows users to design, visualize, and manage workflows.<br>
 It provides a graphical user interface to create and manipulate workflows, making it useful for process automation, project management, and various business applications.
